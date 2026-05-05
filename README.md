@@ -110,5 +110,6 @@ Generated Password: @ppl3sky#92!
 ## Author
 
 Tanishka Gupta
-----
+
+
 Secure Today. Safe Tomorrow.
